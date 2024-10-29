@@ -7,6 +7,7 @@
 </head>
 <body>
     @include('hello')
-    <h1>Xin Chao</h1>
+    <h1>Xin Chao Cong</h1>
+    <h1>Xin Chao Cong</h1>
 </body>
 </html>
